@@ -1,0 +1,30 @@
+{
+	"Skills":
+	["Basic Testing Theory",
+	"SDLC", "STLC",
+	"Client server architecture", 
+	"HTTP Methods of requests",
+	"Server Response Codes",
+	"Structures of HTTP requests and responses",
+	"JSON, XML",
+	"LOGs",
+	"Postman",
+	"Removing and reading logs from an external server",
+	"Charles & Fiddler",
+	"DevTools",
+	"VPN",
+	"Mobile Testing",
+	"iOs, Android, GuideLines",
+	"XCode",
+	"Android Studio",
+	"ADB",
+	"Setting up a proxy and vpn on iOS and Android",
+	"GitBash, the basics of bash script, automatization routine on server",
+	"SQL",
+	"Postgres",
+	"Redis",
+	"Jmeter",
+	"Scrum",
+	"Puthon"]
+}
+
